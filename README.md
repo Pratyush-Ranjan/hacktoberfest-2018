@@ -2554,6 +2554,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Reactjs.
 - [![github-alt][github-img]](https://github.com/prarora98)
 
+### Pratyush
+
+- I am Computer Science Student.
+- MEAN Stack developer.
+- New to Hacktoberfest.
+- [![github-alt][github-img]](https://github.com/Pratyush-Ranjan)
+
 ### Pankaj Kumar Mondal
 - Computer Science Undergraduate
 - I am a volunteer of Google Developers Group Bhubaneswar(GDGBBSR)
@@ -4001,12 +4008,6 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - I Love System Design and Learning new Tech. Currently I do Go.
 - [![github-alt][github-img]](https://github.com/zaynkorai)
 
-### Pratyush
-
-- I am Computer Science Student.
-- MEAN Stack developer.
-- New to Hacktoberfest.
-- [![github-alt][github-img]](https://github.com/Pratyush-Ranjan)
 
 ---
 
